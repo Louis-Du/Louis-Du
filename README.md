@@ -2,11 +2,6 @@
   
 Markdown: ![Texto alternativo](4d1678e171347c4402c231dad0394f0f.gif)
 
-
-c72d14aeeb05acf7eefc46c3035b471d (1).gif
-
-bc87e5124f8d2cfe810d403adc96ad01.gif
-
 ---
 # ¿Quién soy?
 Soy **Luis Alberto Dueñas Franco**, aprendiz de la formación **Analisis y Desarrollo de Software** del tercer trimestre. Hasta el momento solo estoy aprendiendo a desarrolar con el lenguaje de **Python** :snake:, pero una de mis metas es aprender los siguientes lenguajes:
