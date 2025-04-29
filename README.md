@@ -1,6 +1,6 @@
 ## :wave: ¡Hola!, mi nombre es Luis Dueñas.
   
-Markdown: ![Texto alternativo](4d1678e171347c4402c231dad0394f0f.gif)
+![Texto alternativo](4d1678e171347c4402c231dad0394f0f.gif)
 
 ---
 # ¿Quién soy?
