@@ -15,12 +15,12 @@ Soy **Luis Alberto Dueñas Franco**, aprendiz de la formación **Analisis y Desa
 
 ¿Porqué escogí esta formación? :computer:.
 
-** Me encanta la tecnoligia, aprender y conocer nuevas aplicaciones, y tambien deseo realizar muchos *proyectos* en el futuro para brindar soluciones a dificultades cotidianas que se pueden presentar en distintas áreas.
+Me encanta la tecnoligia, aprender y conocer nuevas aplicaciones, y tambien deseo realizar muchos *proyectos* en el futuro para brindar soluciones a dificultades cotidianas que se pueden presentar en distintas áreas.
 
 ---
 # Mis habilidades y copetencias.
 
-** Las siguientes son algunas de mis copetencias ya concluidas:
+Las siguientes son algunas de mis copetencias ya concluidas:
 
 * Levantamiento de la información.
 * Establecer los requisitos en el Software.
