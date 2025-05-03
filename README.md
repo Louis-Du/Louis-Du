@@ -4,7 +4,7 @@
 
 ---
 # ¿Quién soy?
-Soy **Luis Alberto Dueñas Franco**, aprendiz de la formación **Analisis y Desarrollo de Software** del tercer trimestre. Hasta el momento solo estoy aprendiendo a desarrolar con el lenguaje de **Python** :snake:, pero una de mis metas es aprender los siguientes lenguajes:
+Soy **Luis Alberto Dueñas Franco**, aprendiz de la formación **Analisis y Desarrollo de Software** del tercer trimestre. Hasta el momento solo estoy aprendiendo a desarrollar con el lenguaje de **Python** :snake:, pero una de mis metas es aprender los siguientes lenguajes:
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 
