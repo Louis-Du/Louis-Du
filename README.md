@@ -42,9 +42,9 @@ Hasta el momento me he establecido las siguientes metas para cuando concluya est
   # 📊 Estadísticas:
 ![Louis-Du' GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-Du&show_icons=true&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Louis-Du&theme=while&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Louis-Du&theme=dark&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Du&layout=compact&theme=while)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Du&layout=compact&theme=dark)
 
 ---
 # :phone: Contactos.
