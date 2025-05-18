@@ -40,7 +40,7 @@ Hasta el momento me he establecido las siguientes metas para cuando concluya est
 
 ---
   # 📊 Estadísticas:
-![Louis-Du' GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-Du&show_icons=true&theme=white)
+![Louis-Du' GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-Du&show_icons=true&theme=dark)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Louis-Du&theme=while&hide_border=false)<br/>
 
