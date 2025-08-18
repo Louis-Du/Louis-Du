@@ -44,7 +44,7 @@ Hasta el momento me he establecido las siguientes metas para cuando concluya est
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Louis-Du&theme=dark&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Du&layout=compact&theme=dark)
+<a href="https://github.com/louis-du" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-du&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 # :phone: Contactos.
