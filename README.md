@@ -1,83 +1,210 @@
 
+<!-- ====== HEADER ====== -->
+<div align="center">
 
-## 👋 ¡Hola!, mi nombre es **Luis Dueñas**
+<h1>Luis Dueñas</h1>
+<p><strong>Aprendiz de Análisis y Desarrollo de Software</strong></p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VsYnZ2ZHdhaXhpMjN6cjduM3hxNXJ5Z3Fnc2s2eXkxc2h5Zmd0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" 
-       alt="Banner animado" 
-       width="1000" 
-       height="370">
+<p>
+  Desarrollo software con enfoque en <strong>backend</strong>, <strong>bases de datos relacionales</strong> y <strong>estructura limpia</strong>.
+  Aprendo construyendo proyectos reales, documentando cada iteración y mejorando continuamente.
+</p>
+<p>
+  📌 Colombia
+</p>
+<p>
+  <a href="mailto:luis.a.d.f.beto@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Luis,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa%20hablar%20contigo.">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/luis-alberto-due%C3%B1as-franco-915601294">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Louis-Du?tab=repositories">Repos</a>
 </p>
 
----
+<img
+  src="https://github.com/Louis-Du.png"
+  width="140"
+  height="140"
+  alt="Foto de perfil de Luis Dueñas"
+  style="border-radius: 50%; border: 2px solid #2f2f2f;"
+/>
 
-# 💻 ¿Quién soy?
+</div>
 
-Soy ***Luis Alberto Dueñas Franco***, aprendiz de **Análisis y Desarrollo de Software**.
-Me apasiona la tecnología, el aprendizaje constante y la creación de soluciones que aporten valor a la vida diaria.
-Disfruto programar, investigar nuevas herramientas y construir proyectos que combinen lógica y creatividad.
+<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
 
-### 🧠 Lenguajes y herramientas que utilizo:
+## Sobre mí
+Soy aprendiz en formación de **Análisis y Desarrollo de Software**, enfocado en construir sistemas bien estructurados desde la base.
 
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+Trabajo con estos principios:
+- Primero modelar, luego programar.
+- Entender el problema antes de escribir código.
+- Documentar como si otro desarrollador fuera a continuar el proyecto.
+- Mejorar cada proyecto respecto al anterior.
 
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+Intereses actuales:
+- **Backend**
+- **SQL Server y modelado relacional**
+- Arquitectura y buenas prácticas
 
----
+<p align="center">──────────────────────────────────────── ⚙ ────────────────────────────────────────</p>
 
-# ⚙️ Habilidades y competencias
+## Proyectos destacados
+> Añade aquí 3–6 proyectos. Si quieres, pásame tus repos favoritos y te los redacto con descripción profesional.
 
-A continuación se muestra algunas de mis principales competencias técnicas y transversales:
+| Proyecto | Descripción Profesional | Stack | Links |
+|---|---|---|---|
+| Gestión de Formularios | Aplicación orientada a la administración y registro estructurado de formularios, aplicando lógica modular y validaciones de datos. | Java | ![FrameRegistro](./media/FrameRegistro.png) |
+| RedSocialSena | Aplicación web con autenticación y publicaciones en tiempo real integrando frontend dinámico con Firebase. | HTML, CSS, JS, Firebase | Repo |
+| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad en terminal mediante Lua y Vimscript. | Lua, Vim | Repo |
 
-| **Tipo de competencia**                        | **Descripción**                                                                                                |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🧩 **Diseño de software**                      | Modelado de datos, elaboración de artefactos técnicos y verificación de entregables según metodologías ágiles. |
-| 🧪 **Calidad del software**                    | Aplicación de estándares de la industria y prácticas de aseguramiento de calidad en procesos de desarrollo.    |
-| ⚙️ **Implementación y despliegue**             | Planificación, documentación e implantación de soluciones de software según modelos de referencia.             |
-| 💻 **Gestión de información y TIC**            | Uso eficiente de herramientas informáticas para el manejo, análisis y optimización de datos.                   |
-| 🔬 **Ciencias aplicadas**                      | Análisis de procesos productivos y mejora de sistemas basados en principios físicos.                           |
-| 🤝 **Ética y cultura de paz**                  | Promoción de la dignidad, la cooperación y el desarrollo social.                                               |
-| ⚖️ **Derechos laborales**                      | Aplicación de los principios constitucionales y humanos en el entorno de trabajo.                              |
-| 🗣️ **Inglés técnico**                         | Comprensión e intercambio de información en contextos laborales (nivel intermedio).                            |
-| 🧭 **Seguridad y sostenibilidad (en curso)**   | Aplicación de prácticas ambientales, de seguridad y salud en el trabajo.                                       |
-| 🚀 **Emprendimiento y autogestión (en curso)** | Desarrollo de propuestas de negocio y estrategias productivas.                                                 |
+<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
 
----
+# Stack técnico
 
-# 🎯 Mis metas
+## Lenguajes y Web
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" />
+      <br/>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" />
+      <br/>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" />
+      <br/>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlserver" />
+      <br />SQL Server
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
+      <br/>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" />
+      <br/>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=lua" width="48" alt="Lua" />
+      <br/>Lua
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
+      <br/>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=markdown" width="48" alt="Markdown" />
+      <br/>Markdown
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" />
+      <br />.NET
+    </td>
+  </tr>
+</table>
 
-Metas que me propongo alcanzar al finalizar mi formación:
+### Bases de datos y herramientas
 
-* 🎓 Obtener el título de **Análisis y Desarrollo de Software**.
-* 💻 Dominar al menos **cuatro lenguajes de programación**.
-* 🧠 Desarrollar un **proyecto completo con impacto real**.
-* 🇺🇸 Alcanzar un **nivel intermedio de inglés técnico**.
+## Herramientas
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash" />
+      <br/>Bash
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+      <br/>GitHub
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
+      <br/>VS Code
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio" />
+      <br/>Visual Studio
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ IDEA" />
+      <br/>IntelliJ
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=neovim" width="48" alt="Neovim" />
+      <br/>Neovim
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" alt="Azure" />
+      <br/>Azure
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" />
+      <br/>Firebase
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" />
+      <br/>Figma
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" />
+      <br/>Notion
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=obsidian" width="48" alt="Obsidian" />
+      <br/>Obsidian
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vim" width="48" alt="Vim" />
+      <br/>Vim
+    </td>
+  </tr>
+</table>
 
----
+## Bases de datos / Modelado
+- SQL Server (consultas y modelado)
+- Diseño **relacional** y **Entidad–Relación (ER)**
 
-# 📊 Estadísticas
+<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
 
-![Louis-Du' GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-Du\&show_icons=true\&theme=dark)
+## En este momento
+- Integrando **C# + SQL Server** en proyectos prácticos
+- Mejorando estándares de documentación y estructura de repositorios
+- Profundizando en diseño relacional y consultas avanzadas
+- Fortaleciendo hábitos profesionales con Git y planificación técnica
 
-![](https://nirzak-streak-stats.vercel.app/?user=Louis-Du\&theme=dark\&hide_border=false)<br/>
+<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
 
-<a href="https://github.com/louis-du" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-du&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+## 📊 Estadísticas
+<div align="left">
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=Louis-Du&theme=dark&hide_border=false"
+  alt="Streak stats de Louis-Du"
+/>
+</div>
+<br/>
+<div align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-Du&theme=github-compact"
+  alt="Grafica de constribución"
+/>
+</div>
 
----
 
-# 📬 Contacto
+<p align="center">──────────────────────────────────────── ⚙ ────────────────────────────────────────</p>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/573044814774?text=Hola%20👋.%20Acabo%20de%20ver%20tu%20perfil%20y%20me%20gustar%C3%ADa%20hablar%20contigo.)
+## 📬 Contacto
+- Email: <a href="mailto:luis.a.d.f.beto@gmail.com">luis.a.d.f.beto@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/luis-alberto-due%C3%B1as-franco-915601294">Perfil</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luis-alberto-due%C3%B1as-franco-915601294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:luis.a.d.f.beto@gmail.com?subject=Intento%20de%20contacto&body=hola%20%F0%9F%91%8B.%20Acabo%20de%20ver%20tu%20perfil%20de%20GitHub%20y%20estoy%20interesado%20en%20hablar%20contigo.)
-
-
+<div align="center">
+  <sub>Última actualización: 2026-03-04</sub>
+</div>
