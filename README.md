@@ -46,10 +46,9 @@ Intereses actuales:
 - **SQL Server y modelado relacional**
 - Arquitectura y buenas prácticas
 
-<p align="center">──────────────────────────────────────── ⚙ ────────────────────────────────────────</p>
+<p align="center">───────────────── ⚙ ─────────────────</p>
 
 ## Proyectos destacados
-> Añade aquí 3–6 proyectos. Si quieres, pásame tus repos favoritos y te los redacto con descripción profesional.
 
 | Proyecto | Descripción Profesional | Stack | Links |
 |---|---|---|---|
