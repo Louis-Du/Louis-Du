@@ -7,18 +7,6 @@
 
 <p>
   Desarrollo software con enfoque en <strong>backend</strong>, <strong>bases de datos relacionales</strong> y <strong>estructura limpia</strong>.
-  Aprendo construyendo proyectos reales, documentando cada iteración y mejorando continuamente.
-</p>
-<p>
-  📌 Colombia
-</p>
-<p>
-  <a href="mailto:luis.a.d.f.beto@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Luis,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa%20hablar%20contigo.">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/luis-alberto-due%C3%B1as-franco-915601294">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Louis-Du?tab=repositories">Repos</a>
-</p>
 
 <img
   src="https://github.com/Louis-Du.png"
@@ -52,9 +40,9 @@ Intereses actuales:
 
 | Proyecto | Descripción Profesional | Stack | Links |
 |---|---|---|---|
-| Gestión de Formularios | Aplicación orientada a la administración y registro estructurado de formularios, aplicando lógica modular y validaciones de datos. | Java | ![FrameRegistro](./media/FrameRegistro.png) |
+| Gestión de Formularios | Aplicación orientada a la administración y registro estructurado de formularios, aplicando lógica modular y validaciones de datos. | Java | ![GestionFormulario](./media/GestionFormulario.png) |
 | RedSocialSena | Aplicación web con autenticación y publicaciones en tiempo real integrando frontend dinámico con Firebase. | HTML, CSS, JS, Firebase | Repo |
-| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad en terminal mediante Lua y Vimscript. | Lua, Vim | Repo |
+| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad en terminal mediante Lua y Vimscript. | Lua, Vim | ![Nvim](.media/Nvim.png) |
 
 <p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
 
