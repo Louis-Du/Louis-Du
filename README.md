@@ -1,5 +1,17 @@
 
 <!-- ====== HEADER ====== -->
+<header>
+  <div align="center">
+    <nav>
+      <a href="#sobre-mí">Sobre mí</a> ·
+      <a href="#proyectos-destacados">Proyectos destacados</a>
+      <a href="#stack">🧰 Stack</a> ·
+      <a href="#-estadísticas">📊 Estadísticas</a> ·
+      <a href="#contacto">📬 Contacto</a>
+    </nav>
+  </div>
+</header>
+
 <div align="center">
 
 <h1>Luis Dueñas</h1>
@@ -15,10 +27,8 @@
   alt="Foto de perfil de Luis Dueñas"
   style="border-radius: 50%; border: 2px solid #2f2f2f;"
 />
-
+<br> </br>
 </div>
-
-<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
 
 ## Sobre mí
 Soy aprendiz en formación de **Análisis y Desarrollo de Software**, enfocado en construir sistemas bien estructurados desde la base.
@@ -33,20 +43,16 @@ Intereses actuales:
 - **Backend**
 - **SQL Server y modelado relacional**
 - Arquitectura y buenas prácticas
-
-<p align="center">───────────────── ⚙ ─────────────────</p>
-
+<br> </br>  
 ## Proyectos destacados
 
 | Proyecto | Descripción Profesional | Stack | Links |
 |---|---|---|---|
 | Gestión de Formularios | Aplicación orientada a la administración y registro estructurado de formularios, aplicando lógica modular y validaciones de datos. | Java | ![GestionFormulario](./media/GestionFormulario.png) |
 | RedSocialSena | Aplicación web con autenticación y publicaciones en tiempo real integrando frontend dinámico con Firebase. | HTML, CSS, JS, Firebase | Repo |
-| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad en terminal mediante Lua y Vimscript. | Lua, Vim | ![Nvim](.media/Nvim.png) |
-
-<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
-
-# Stack técnico
+| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad en terminal mediante Lua y Vimscript. | Lua, Vim | ![Nvim](./media/Nvim.png) |
+<br> </br>
+# Stack
 
 ## Lenguajes y Web
 <table>
@@ -159,17 +165,13 @@ Intereses actuales:
 ## Bases de datos / Modelado
 - SQL Server (consultas y modelado)
 - Diseño **relacional** y **Entidad–Relación (ER)**
-
-<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
-
+<br> </br>
 ## En este momento
 - Integrando **C# + SQL Server** en proyectos prácticos
 - Mejorando estándares de documentación y estructura de repositorios
 - Profundizando en diseño relacional y consultas avanzadas
 - Fortaleciendo hábitos profesionales con Git y planificación técnica
-
-<p align="center">─────────────────────────────────────────── ⚙ ───────────────────────────────────────────</p>
-
+<br> </br>
 ## 📊 Estadísticas
 <div align="left">
 <img
@@ -185,13 +187,16 @@ Intereses actuales:
 />
 </div>
 
-
-<p align="center">──────────────────────────────────────── ⚙ ────────────────────────────────────────</p>
-
 ## 📬 Contacto
-- Email: <a href="mailto:luis.a.d.f.beto@gmail.com">luis.a.d.f.beto@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/luis-alberto-due%C3%B1as-franco-915601294">Perfil</a>
-
 <div align="center">
-  <sub>Última actualización: 2026-03-04</sub>
-</div>
+  <sub>© 2026 Luis Dueñas · Actualizado: 2026-03-06</sub>
+  <br/><br/>
+  <a href="https://github.com/Louis-Du?tab=repositories">
+    <img alt="Repos" src="https://img.shields.io/badge/Ver%20Repos-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:luis.a.d.f.beto@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/luis-alberto-due%C3%B1as-franco-915601294">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
