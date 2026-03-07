@@ -133,6 +133,10 @@ Intereses actuales:
       <img src="https://skillicons.dev/icons?i=neovim" width="48" alt="Neovim" />
       <br/>Neovim
     </td>
+        <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=jira" width="48" alt="Jira" />
+      <br/>Jira
+    </td>
   </tr>
   <tr>
     <td align="center" width="110">
