@@ -15,10 +15,11 @@
 <div align="center">
 
 <h1>Luis Dueñas</h1>
-<p><strong>Aprendiz de Análisis y Desarrollo de Software</strong></p>
+<p><strong>Desarrollador de Software en formación</strong></p>
 
 <p>
-  Desarrollo software con enfoque en <strong>backend</strong>, <strong>bases de datos relacionales</strong> y <strong>estructura limpia</strong>.
+  Construyo sistemas con enfoque en <strong>backend</strong>, 
+<strong>modelado relacional</strong> y <strong>estructura limpia</strong>.
 
 <img
   src="https://github.com/Louis-Du.png"
@@ -31,26 +32,33 @@
 </div>
 
 ## Sobre mí
-Soy aprendiz en formación de **Análisis y Desarrollo de Software**, enfocado en construir sistemas bien estructurados desde la base.
+Soy desarrollador de software en formación enfocado en construir sistemas desde la base.
 
-Trabajo con estos principios:
-- Primero modelar, luego programar.
-- Entender el problema antes de escribir código.
-- Documentar como si otro desarrollador fuera a continuar el proyecto.
-- Mejorar cada proyecto respecto al anterior.
+He desarrollado proyectos aplicando:
+- Lógica de programación
+- Operaciones CRUD
+- Modelado relacional
+- Organización modular del código
 
-Intereses actuales:
-- **Backend**
-- **SQL Server y modelado relacional**
-- Arquitectura y buenas prácticas
-<br> </br>  
+Tengo conocimientos tanto en **backend** como en **frontend** (HTML, CSS), lo que me permite entender el flujo completo de una aplicación. Sin embargo, mi enfoque principal está en la *lógica del sistema y la estructura interna*.
+
+Trabajo bajo principios simples:
+- Entender el problema antes de programar
+- Diseñar antes de implementar
+- Escribir código claro y mantenible
+
+### Intereses actuales:
+- Backend y lógica de sistemas
+- SQL Server y modelado relacional
+- Estructura y buenas prácticas
+
 ## Proyectos destacados
 
 | Proyecto | Descripción Profesional | Stack | Links |
 |---|---|---|---|
-| Gestión de Formularios | Aplicación orientada a la administración y registro estructurado de formularios, aplicando lógica modular y validaciones de datos. | Java | ![GestionFormulario](./media/GestionFormulario.png) |
+| Gestión de Formularios | Aplicación en Java para la gestión estructurada de formularios, con validación de datos y organización modular del código usando programación orienta a objetos. | Java | ![GestionFormulario](./media/GestionFormulario.png) |
 | RedSocialSena | Aplicación web con autenticación y publicaciones en tiempo real integrando frontend dinámico con Firebase. | HTML, CSS, JS, Firebase | Repo |
-| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad en terminal mediante Lua y Vimscript. | Lua, Vim | ![Nvim](./media/Nvim.png) |
+| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad, con configuración modular en Lua y automatización del flujo de trabajo. | Lua, Vim | ![Nvim](./media/Nvim.png) |
 <br> </br>
 # Stack
 
@@ -170,11 +178,11 @@ Intereses actuales:
 - SQL Server (consultas y modelado)
 - Diseño **relacional** y **Entidad–Relación (ER)**
 <br> </br>
-## En este momento
-- Integrando **C# + SQL Server** en proyectos prácticos
-- Mejorando estándares de documentación y estructura de repositorios
-- Profundizando en diseño relacional y consultas avanzadas
-- Fortaleciendo hábitos profesionales con Git y planificación técnica
+## Qué estoy construyendo ahora
+- Sistema backend con C# y SQL Server
+- Diseño de base de datos relacional desde cero
+- Mejora de estructura y documentación en proyectos
+- Organización del desarrollo usando Kanban
 <br> </br>
 ## 📊 Estadísticas
 <div align="left">
@@ -187,7 +195,7 @@ Intereses actuales:
 <div align="center">
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-Du&theme=github-compact"
-  alt="Grafica de constribución"
+  alt="Grafica de contribución"
 />
 </div>
 
