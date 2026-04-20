@@ -187,7 +187,7 @@ Trabajo bajo principios simples:
 ## 📊 Estadísticas
 <div align="left">
 <img
-  src="https://nirzak-streak-stats.vercel.app/?user=Louis-Du&theme=dark&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Du&layout=donut&theme=tokyonight"
   alt="Streak stats de Louis-Du"
 />
 </div>
