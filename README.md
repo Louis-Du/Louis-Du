@@ -51,14 +51,6 @@ Trabajo bajo principios simples:
 - Backend y lógica de sistemas
 - SQL Server y modelado relacional
 - Estructura y buenas prácticas
-
-## Proyectos destacados
-
-| Proyecto | Descripción Profesional | Stack | Links |
-|---|---|---|---|
-| Gestión de Formularios | Aplicación en Java para la gestión estructurada de formularios, con validación de datos y organización modular del código usando programación orienta a objetos. | Java | ![GestionFormulario](./media/GestionFormulario.png) |
-| RedSocialSena | Aplicación web con autenticación y publicaciones en tiempo real integrando frontend dinámico con Firebase. | HTML, CSS, JS, Firebase | Repo |
-| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad, con configuración modular en Lua y automatización del flujo de trabajo. | Lua, Vim | ![Nvim](./media/Nvim.png) |
 <br> </br>
 # Stack
 
@@ -178,11 +170,13 @@ Trabajo bajo principios simples:
 - SQL Server (consultas y modelado)
 - Diseño **relacional** y **Entidad–Relación (ER)**
 <br> </br>
-## Qué estoy construyendo ahora
-- Sistema backend con C# y SQL Server
-- Diseño de base de datos relacional desde cero
-- Mejora de estructura y documentación en proyectos
-- Organización del desarrollo usando Kanban
+## Proyectos destacados
+
+| Proyecto | Descripción Profesional | Stack | Links |
+|---|---|---|---|
+| Gestión de Formularios | Aplicación en Java para la gestión estructurada de formularios, con validación de datos y organización modular del código usando programación orienta a objetos. | Java | ![GestionFormulario](./media/GestionFormulario.png) |
+| RedSocialSena | Aplicación web con autenticación y publicaciones en tiempo real integrando frontend dinámico con Firebase. | HTML, CSS, JS, Firebase | Repo |
+| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad, con configuración modular en Lua y automatización del flujo de trabajo. | Lua, Vim | ![Nvim](./media/Nvim.png) |
 <br> </br>
 ## 📊 Estadísticas
 <div align="left">
