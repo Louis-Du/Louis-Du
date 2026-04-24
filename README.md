@@ -203,6 +203,6 @@ Trabajo bajo principios simples:
   <a href="mailto:luis.a.d.f.beto@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/luis-alberto-due%C3%B1as-franco-915601294">
+  <a href="https://www.linkedin.com/in/luisduenasfranco">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
