@@ -33,24 +33,12 @@
 
 ## Sobre mí
 Soy desarrollador de software en formación enfocado en construir sistemas desde la base.
-
-He desarrollado proyectos aplicando:
-- Lógica de programación
-- Operaciones CRUD
-- Modelado relacional
-- Organización modular del código
-
-Tengo conocimientos tanto en **backend** como en **frontend** (HTML, CSS), lo que me permite entender el flujo completo de una aplicación. Sin embargo, mi enfoque principal está en la *lógica del sistema y la estructura interna*.
+He venido desarrollando proyectos tanto en el area del **backend** como en el del **frontend** (HTML, CSS, Node.js), lo que me permite entender el flujo completo de una aplicación. Sin embargo, mi enfoque principal está en la *lógica del sistema y la estructura interna*.
 
 Trabajo bajo principios simples:
 - Entender el problema antes de programar
 - Diseñar antes de implementar
 - Escribir código claro y mantenible
-
-### Intereses actuales:
-- Backend y lógica de sistemas
-- SQL Server y modelado relacional
-- Estructura y buenas prácticas
 <br> </br>
 # Stack
 
@@ -84,6 +72,10 @@ Trabajo bajo principios simples:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" />
       <br/>CSS
+    </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="HTML" />
+      <br/>NodeJs
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=lua" width="48" alt="Lua" />
@@ -140,10 +132,6 @@ Trabajo bajo principios simples:
   </tr>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" alt="Azure" />
-      <br/>Azure
-    </td>
-    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" />
       <br/>Firebase
     </td>
@@ -195,7 +183,7 @@ Trabajo bajo principios simples:
 
 ## 📬 Contacto
 <div align="center">
-  <sub>© 2026 Luis Dueñas · Actualizado: 2026-03-06</sub>
+  <sub>© 2026 Luis Dueñas · Actualizado: 2026-04-23</sub>
   <br/><br/>
   <a href="https://github.com/Louis-Du?tab=repositories">
     <img alt="Repos" src="https://img.shields.io/badge/Ver%20Repos-111111?style=for-the-badge&logo=github&logoColor=white">
