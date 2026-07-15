@@ -1,25 +1,17 @@
-
 <!-- ====== HEADER ====== -->
 <header>
   <div align="center">
     <nav>
-      <a href="#sobre-mí">Sobre mí</a> ·
-      <a href="#proyectos-destacados">Proyectos destacados</a>
-      <a href="#stack">🧰 Stack</a> ·
+      <a href="#-sobre-mí">Sobre mí</a> ·
+      <a href="#-proyectos-destacados">🚀 Proyectos</a> ·
+      <a href="#-stack-tecnológico">🧰 Stack</a> ·
       <a href="#-estadísticas">📊 Estadísticas</a> ·
-      <a href="#contacto">📬 Contacto</a>
+      <a href="#-contacto">📬 Contacto</a>
     </nav>
   </div>
 </header>
 
 <div align="center">
-
-<h1>Luis Dueñas</h1>
-<p><strong>Desarrollador de Software en formación</strong></p>
-
-<p>
-  Construyo sistemas con enfoque en <strong>backend</strong>, 
-<strong>modelado relacional</strong> y <strong>estructura limpia</strong>.
 
 <img
   src="https://github.com/Louis-Du.png"
@@ -28,169 +20,164 @@
   alt="Foto de perfil de Luis Dueñas"
   style="border-radius: 50%; border: 2px solid #2f2f2f;"
 />
-<br> </br>
+
+<h1>Luis Dueñas</h1>
+<p><strong>Desarrollador de Software en formación</strong> · Backend · C# / ASP.NET MVC · Java · SQL Server</p>
+
+<a href="https://www.linkedin.com/in/luisduenasfranco">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:luis.a.d.f.beto@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/Louis-Du?tab=repositories">
+  <img alt="Repos" src="https://img.shields.io/badge/Ver%20Repos-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+<br/>
+
+## 👋 Sobre mí
+
+- 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA) — en formación
+- 💻 Enfocado en **backend**, **modelado relacional** y **arquitectura MVC**
+- 📱 También trabajo con desarrollo móvil (**Flutter/Dart**) y frontend (HTML, CSS, JavaScript, Node.js)
+- 🏆 Logré **98/100 en rendimiento** y **100/100 en buenas prácticas** (Lighthouse) en mi proyecto SGES Web
+- 🧠 Principios de trabajo: entender antes de programar, diseñar antes de implementar, escribir código claro y mantenible
+- 📫 Contáctame por LinkedIn o correo (botones arriba ⬆️)
+
+<br/>
+
+## 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [SGES Web](https://github.com/Louis-Du/SGESWeb)
+Sistema de gestión de eventos e inscripciones. Diseñé la base de datos relacional en SQL Server y el backend con ASP.NET MVC.
+
+**Resultado:** 98/100 en rendimiento y 100/100 en buenas prácticas (Lighthouse).
+
+`C#` `ASP.NET MVC` `SQL Server` `Bootstrap`
+
+</td>
+<td width="50%" valign="top">
+
+### [RedSocialSENA](https://github.com/Louis-Du/RedSocialSena)
+Red social para aprendices y egresados del SENA. Prototipo en HTML/CSS/JS desplegado en GitHub Pages; versión final en desarrollo con Firebase (auth + tiempo real).
+
+![RedSocialSENA](./media/RedSocialSENA.png)
+
+`HTML` `CSS` `JavaScript` `Firebase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Gestión de Formularios](https://github.com/Louis-Du/GestionFormulario)
+Aplicación de escritorio en Java para gestión estructurada de formularios, con validación de datos y arquitectura MVC.
+
+![GestionFormulario](./media/GestionFormulario.png)
+
+`Java` `Java Swing` `Apache POI` `MVC`
+
+</td>
+<td width="50%" valign="top">
+
+### [Configuración Neovim](https://github.com/Louis-Du/dotfiles)
+Entorno de desarrollo personalizado optimizado para productividad, con configuración modular en Lua.
+
+![Nvim](./media/Nvim.png)
+
+`Lua` `Neovim`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Stack Tecnológico
+
+**Lenguajes**
+<div>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
 </div>
 
-## Sobre mí
-Soy desarrollador de software en formación enfocado en construir sistemas desde la base.
-He venido desarrollando proyectos tanto en el area del **backend** como en el del **frontend** (HTML, CSS, Node.js), lo que me permite entender el flujo completo de una aplicación. Sin embargo, mi enfoque principal está en la *lógica del sistema y la estructura interna*.
+**Backend / Web**
+<div>
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC">
+<img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+</div>
 
-Trabajo bajo principios simples:
-- Entender el problema antes de programar
-- Diseñar antes de implementar
-- Escribir código claro y mantenible
-<br> </br>
-# Stack
+**Móvil**
+<div>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+</div>
 
-## Lenguajes y Web
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" />
-      <br/>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" />
-      <br/>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" />
-      <br/>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlserver" />
-      <br />SQL Server
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
-      <br/>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" />
-      <br/>CSS
-    </td>
-        <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="HTML" />
-      <br/>NodeJs
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=lua" width="48" alt="Lua" />
-      <br/>Lua
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
-      <br/>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=markdown" width="48" alt="Markdown" />
-      <br/>Markdown
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" />
-      <br />.NET
-    </td>
-  </tr>
-</table>
+**Bases de datos**
+<div>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+</div>
 
-### Bases de datos y herramientas
+**Control de versiones y metodologías**
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum">
+</div>
 
-## Herramientas
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash" />
-      <br/>Bash
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
-      <br/>GitHub
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
-      <br/>VS Code
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio" />
-      <br/>Visual Studio
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ IDEA" />
-      <br/>IntelliJ
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=neovim" width="48" alt="Neovim" />
-      <br/>Neovim
-    </td>
-        <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=jira" width="48" alt="Jira" />
-      <br/>Jira
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" />
-      <br/>Firebase
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" />
-      <br/>Figma
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" />
-      <br/>Notion
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=obsidian" width="48" alt="Obsidian" />
-      <br/>Obsidian
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vim" width="48" alt="Vim" />
-      <br/>Vim
-    </td>
-  </tr>
-</table>
+**Herramientas personales**
+<div>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
+<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian">
+</div>
 
-## Bases de datos / Modelado
-- SQL Server (consultas y modelado)
-- Diseño **relacional** y **Entidad–Relación (ER)**
-<br> </br>
-## Proyectos destacados
+<br/>
 
-| Proyecto | Descripción Profesional | Stack | Links |
-|---|---|---|---|
-| Gestión de Formularios | Aplicación en Java para la gestión estructurada de formularios, con validación de datos y organización modular del código usando programación orienta a objetos. | Java | ![GestionFormulario](./media/GestionFormulario.png) |
-| RedSocialSena | Aplicación web con autenticación y publicaciones en tiempo real integrando frontend dinámico con Firebase. | HTML, CSS, JS, Firebase | Repo |
-| Configuración Neovim | Entorno de desarrollo personalizado optimizado para productividad, con configuración modular en Lua y automatización del flujo de trabajo. | Lua, Vim | ![Nvim](./media/Nvim.png) |
-<br> </br>
 ## 📊 Estadísticas
 <div align="left">
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Du&layout=donut&theme=tokyonight"
-  alt="Streak stats de Louis-Du"
+  alt="Top languages de Louis-Du"
 />
 </div>
 <br/>
 <div align="center">
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-Du&theme=github-compact"
-  alt="Grafica de contribución"
+  alt="Gráfica de contribución"
 />
 </div>
 
+<br/>
+
 ## 📬 Contacto
 <div align="center">
-  <sub>© 2026 Luis Dueñas · Actualizado: 2026-04-23</sub>
-  <br/><br/>
-  <a href="https://github.com/Louis-Du?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/Ver%20Repos-111111?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   <a href="mailto:luis.a.d.f.beto@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/luisduenasfranco">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://github.com/Louis-Du?tab=repositories">
+    <img alt="Repos" src="https://img.shields.io/badge/Ver%20Repos-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <br/><br/>
+  <sub>© 2026 Luis Dueñas · Actualizado: 2026-07-15</sub>
+</div>
