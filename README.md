@@ -29,9 +29,6 @@ C# • Java • JavaScript • Docker • GitHub Actions • ASP.NET MVC • SQL
 <a href="https://www.linkedin.com/in/luisduenasfranco">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:luis.a.d.f.beto@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 <a href="https://github.com/Louis-Du?tab=repositories">
   <img alt="Repos" src="https://img.shields.io/badge/Ver%20Repos-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -193,9 +190,6 @@ Entorno de desarrollo personalizado optimizado para productividad, con configura
 
 ## 📬 Contacto
 <div align="center">
-  <a href="mailto:luis.a.d.f.beto@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/luisduenasfranco">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
